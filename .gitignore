@@ -1,0 +1,22 @@
+dist/
+
+# JetBrains (PhpStorm, WebStorm, IntelliJ…)
+.idea/
+
+# VS Code
+.vscode/
+
+# Vim
+*.swp
+*.swo
+
+# Sublime Text
+*.sublime-project
+*.sublime-workspace
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
