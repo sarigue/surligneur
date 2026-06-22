@@ -1,0 +1,19 @@
+== Résumé court (132 caractères max) ==
+
+Surlignez des passages de pages web et retrouvez-les automatiquement à votre prochaine visite.
+
+
+== Description complète ==
+
+Surligneur vous permet de surligner simplement des passages de pages web. Les surlignages sont automatiquement sauvegardés et restaurés à chaque visite.
+
+Fonctionnalités :
+- Surligne le texte sélectionné avec la touche « h » ou via le bouton du popup
+- Supprime le surlignage du texte sélectionné avec la touche « r » ou via le bouton du popup
+- Quatre couleurs disponibles (jaune, vert, bleu, gris)
+- La couleur du texte surligné s'adapte automatiquement pour rester lisible (contraste WCAG)
+- Bouton pour effacer tout le surlignage de la page
+- Sauvegarde et restauration automatique des passages surlignés
+- Les données ne sont pas sauvegardées en navigation privée
+
+Cette extension est un fork de l'extension originale Surligneur de mirz (https://addons.mozilla.org/fr/firefox/addon/surligneur/), distribuée sous licence MIT.

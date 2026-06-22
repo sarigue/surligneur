@@ -1,0 +1,19 @@
+== Short summary (132 characters max) ==
+
+Highlight passages on web pages and have them automatically saved and restored on your next visit.
+
+
+== Full description ==
+
+Surligneur lets you easily highlight passages on any web page. Highlights are automatically saved and restored every time you visit the page.
+
+Features:
+- Highlight selected text by pressing « h » or using the popup button
+- Remove highlight from selected text by pressing « r » or using the popup button
+- Four colors available (yellow, green, blue, grey)
+- Text color inside highlights automatically adapts for readability (WCAG contrast)
+- Button to clear all highlights on the current page
+- Automatic saving and restoring of highlighted passages
+- Data is not saved in private browsing mode
+
+This extension is a fork of the original Surligneur extension by mirz (https://addons.mozilla.org/fr/firefox/addon/surligneur/), distributed under the MIT license.
